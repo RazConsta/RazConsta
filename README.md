@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I had an intersnhip with West Monroe between June-August 2022
+- I had an internship with West Monroe between June-August 2022
 - I graduated University of Washington Tacoma with a Bachelor of Science in Computer Science and Systems and a Minor in Mathematics in Match 2023. 
 - I returned as a full-time software engineer for West Monroe in July 2023
 
