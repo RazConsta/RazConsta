@@ -2,13 +2,15 @@
 
 Thanks for checking my profile! Here is an overview of my school and work experience!
 
+- In high school, I worked in a team and developed a <a href="https://github.com/JEElsner/HuntTheWumpus">Java-based trivia game</a> to participate in Micrososft's Hunt the Wumpus competition
 - I had an internship with West Monroe between June-August 2022
  	- For my internship project, I worked on a cryptocurrency tracking web app, working with React and Node.js
 - I graduated University of Washington Tacoma with a Bachelor of Science in Computer Science and Systems and a Minor in Mathematics in Match 2023.
-  	- As part of T CSS 360, I worked in a team and developed a Java-based Trivia game with an advanced user interface
-  	- As part of T CSS 445, I worked in a team and developed a 
-  	- As part of T CSS 450, I worked in a team and developed a chat Android Mobile app (similar to WhatsApp)
-  	- As part of T CSS 491, I worked in a team and developed a web game using JavaScript 
+  	- As part of T CSS 360, I worked in a team and developed a <a href="https://github.com/drcapybara/OfficeEscape2">Java-based trivia game</a> with an advanced user interface
+  	- As part of T CSS 445, I worked in a team and developed a PHP and MariaDB pet care appointments <a href="https://github.com/not-damien/PawTastic">web app</a>
+  	- As part of T CSS 450, I worked in a team and developed a chat Android Mobile app (<a href="https://github.com/RazConsta/Team-2-T-CSS-450">FE Repo</a>, <a href="https://github.com/RazConsta/cultivate-app-web-service">BE repo</a>)
+  	- As part of T CSS 491, I worked in a team and developed a <a href="https://github.com/sdam53/Space-Doomers">web game using JavaScript</a>
+  	- As part of T CSS 499, I worked in a team and did 2 quarters of <a href="https://github.com/kvietcong/genetic-modeling">research about artificial populations</a>
 - I returned as a full-time software engineer for West Monroe in July 2023
 	- For my first client project (July 2023 - July 2024), I worked with React, React Native, and .NET, developing a web app, a separate mobile app, and their back-end
 
