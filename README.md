@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Thanks for checking my profile! Here is an overview of my school and work experience!
+
 - I had an internship with West Monroe between June-August 2022
  	- For my internship project, I worked on a cryptocurrency tracking web app, working with React and Node.js
 - I graduated University of Washington Tacoma with a Bachelor of Science in Computer Science and Systems and a Minor in Mathematics in Match 2023.
