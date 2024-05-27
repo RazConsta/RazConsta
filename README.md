@@ -1,8 +1,14 @@
 ## Hi there 👋
 
 - I had an internship with West Monroe between June-August 2022
-- I graduated University of Washington Tacoma with a Bachelor of Science in Computer Science and Systems and a Minor in Mathematics in Match 2023. 
+ 	- For my internship project, I worked on a cryptocurrency tracking web app, working with React and Node.js
+- I graduated University of Washington Tacoma with a Bachelor of Science in Computer Science and Systems and a Minor in Mathematics in Match 2023.
+  	- As part of T CSS 360, I worked in a team and developed a Java-based Trivia game with an advanced user interface
+  	- As part of T CSS 445, I worked in a team and developed a 
+  	- As part of T CSS 450, I worked in a team and developed a chat Android Mobile app (similar to WhatsApp)
+  	- As part of T CSS 491, I worked in a team and developed a web game using JavaScript 
 - I returned as a full-time software engineer for West Monroe in July 2023
+	- For my first client project (July 2023 - July 2024), I worked with React, React Native, and .NET, developing a web app, a separate mobile app, and their back-end
 
 <table>
 	<tr>
