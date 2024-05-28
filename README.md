@@ -2,7 +2,7 @@
 
 ## Thanks for checking my profile! Here is an overview of my school and work experience!
 
-- My first dive into the world of programming was a <a href="https://github.com/RazConsta/Gaming-Store">terminal-based computer parts store</a> with product search, shopping cart, and order shipping functionality. All written in a single C++ file.
+- My first dive into the world of programming (2015) was a <a href="https://github.com/RazConsta/Gaming-Store">terminal-based computer parts store</a> with product search, shopping cart, and order shipping functionality. All written in a single C++ file.
 - 🏫 In high school, I worked in a team with some AP Computer Science classmates, and developed a <a href="https://github.com/JEElsner/HuntTheWumpus">Java-based trivia game</a> to participate in Micrososft's 2019 Hunt the Wumpus competition
 - 💼 I had an internship with West Monroe between June - August 2022
  	- For my internship project, I worked on a cryptocurrency tracking web app, using a React frontend, and Node.js backend
