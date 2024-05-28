@@ -14,6 +14,8 @@ Thanks for checking my profile! Here is an overview of my school and work experi
 - I returned as a full-time software engineer for West Monroe in July 2023
 	- For my first client project (July 2023 - July 2024), I worked with React, React Native, and .NET, developing a web app, a separate mobile app, and their back-end
 
+ Here is an overview of some of the technologies I worked with in the past year.
+
 <table>
 	<tr>
     		<td>Front-End</td>
