@@ -2,6 +2,7 @@
 
 ## Thanks for checking my profile! Here is an overview of my school and work experience!
 
+- <a href="https://github.com/RazConsta/Gaming-Store">Hello</a>
 - 🏫 In high school, I worked in a team with some AP Computer Science classmates, and developed a <a href="https://github.com/JEElsner/HuntTheWumpus">Java-based trivia game</a> to participate in Micrososft's 2019 Hunt the Wumpus competition
 - 💼 I had an internship with West Monroe between June - August 2022
  	- For my internship project, I worked on a cryptocurrency tracking web app, using a React frontend, and Node.js backend
