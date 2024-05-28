@@ -2,9 +2,9 @@
 
 ## Thanks for checking my profile! Here is an overview of my school and work experience!
 
-- 🏫 In high school, I worked in a team and developed a <a href="https://github.com/JEElsner/HuntTheWumpus">Java-based trivia game</a> to participate in Micrososft's Hunt the Wumpus competition
-- 💼 I had an internship with West Monroe between June-August 2022
- 	- For my internship project, I worked on a cryptocurrency tracking web app, working with React and Node.js
+- 🏫 In high school, I worked in a team with some AP Computer Science classmates, and developed a <a href="https://github.com/JEElsner/HuntTheWumpus">Java-based trivia game</a> to participate in Micrososft's 2019 Hunt the Wumpus competition
+- 💼 I had an internship with West Monroe between June - August 2022
+ 	- For my internship project, I worked on a cryptocurrency tracking web app, using a React frontend, and Node.js backend
 - 🏫 I graduated University of Washington Tacoma with a Bachelor of Science in Computer Science and Systems and a Minor in Mathematics in Match 2023.
 	- 1️⃣ As part of <a href="https://myplan.uw.edu/course/#/courses/TCSS360">T CSS 360</a> (Software Development and Quality Assurance Techniques), I worked in a team and developed a 
 		- <a href="https://github.com/drcapybara/OfficeEscape2">Java-based trivia game</a> with an advanced user interface
@@ -17,7 +17,7 @@
   	- 5️⃣ As part of <a href="https://myplan.uw.edu/course/#/courses/TCSS499">T CSS 499</a> (Undergraduate Research in Computing and Software Systems), I worked in a team and did 2 quarters of
   		- <a href="https://github.com/kvietcong/genetic-modeling">research about artificial populations</a>
 - 💼 I returned as a full-time software engineer for West Monroe in July 2023
-	- For my first client project (July 2023 - July 2024), I worked with React, React Native, and .NET, developing a web app, a separate mobile app, and their back-end
+	- For my first client project (July 2023 - July 2024), I worked with React, React Native, and .NET, developing a web app, a separate mobile app, and their backend
 
 ## Here is an overview of some of the technologies I worked with in the past year.
 
